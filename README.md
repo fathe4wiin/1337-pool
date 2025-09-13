@@ -18,12 +18,6 @@ The Piscine is an intensive 4-week immersion into programming in C and shell, fo
 
 ---
 
-## 📊 Exams Results
-
-![Exams Results](https://i.imgur.com/ZJME6V2.png)
-
----
-
 ## 🚀 Skills Gained
 
 - Proficiency in UNIX shell basics  
@@ -31,6 +25,12 @@ The Piscine is an intensive 4-week immersion into programming in C and shell, fo
 - Understanding of pointers, arrays, and memory allocation  
 - Problem decomposition and algorithmic thinking  
 - Discipline in writing clean, efficient code  
+
+---
+
+## 📊 Exams Results
+
+![Exams Results](https://i.imgur.com/ZJME6V2.png)
 
 ---
 

@@ -20,7 +20,7 @@ The Piscine is an intensive 4-week immersion into programming in C and shell, fo
 
 ## 📊 Exams Results
 
-![Exams Results](assets/exams_results.png)
+![Exams Results](https://imgur.com/a/JTDArsf)
 
 ---
 
